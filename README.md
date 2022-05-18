@@ -1,2 +1,2 @@
 # LeetCode
-Record questions and self-growth
+Record leetcode top questions and self-growth
